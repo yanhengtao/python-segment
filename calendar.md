@@ -4,6 +4,6 @@
 import calendar
 import locale
 
-  textcal = calendar.TextCalendar()
-  textcal.pryear(2017)
+textcal = calendar.TextCalendar()
+textcal.pryear(2017)
 ```
